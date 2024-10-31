@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and lecturer passionate about advancing machine learning applications in finance, particularly in financial time series forecasting and quantitative portfolio management. I obtained a Ph.D. from [CREST](https://crest.science/) at [Institut Polytechnique de Paris](https://www.ip-paris.fr/), my research focuses on developing innovative econometric and neural network methods with application in real-world financial modeling and cryptocurrency prediction.
+I am a researcher and lecturer passionate about advancing machine learning applications in finance, particularly in financial time series forecasting and quantitative portfolio management. I obtained a Ph.D. from [CREST](https://crest.science/) at [Institut Polytechnique de Paris](https://www.ip-paris.fr/), My research focuses on bridging econometrics and deep learning by creating innovative methodologies, with a focus on practical applications in financial modeling and cryptocurrency forecasting.
 
 Research interest
 ======
