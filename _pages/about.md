@@ -15,3 +15,4 @@ Research interest
 2. Financial Econometrics
 3. Machine Learning in Finance
 4. Quantitative Portfolio Management
+5. Digital Assets
